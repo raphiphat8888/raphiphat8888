@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="230" viewBox="0 0 620 230" role="img" aria-labelledby="title desc">
+  <title id="title">smartQ2</title>
+  <desc id="desc">HTML public repository by Takt</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#101827"/><stop offset="1" stop-color="#25152d"/></linearGradient></defs>
+  <rect width="620" height="230" rx="18" fill="url(#g)" stroke="#30363d"/>
+  <circle cx="52" cy="52" r="22" fill="#f97316"/><path d="M43 52h18M52 43v18" stroke="white" stroke-width="3"/>
+  <text x="92" y="62" fill="#f8fafc" font-family="Arial, sans-serif" font-size="31" font-weight="700">smartQ2</text>
+  <text x="40" y="125" fill="#94a3b8" font-family="Arial, sans-serif" font-size="18">A practical web project</text>
+  <rect x="40" y="158" width="104" height="34" rx="17" fill="#431407" stroke="#f97316"/><text x="92" y="181" text-anchor="middle" fill="#fed7aa" font-family="Arial, sans-serif" font-size="15" font-weight="700">HTML</text>
+  <text x="545" y="190" text-anchor="end" fill="#64748b" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">PUBLIC REPO</text>
+</svg>
