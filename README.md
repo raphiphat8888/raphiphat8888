@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./takt-banner.png" alt="Takt — Build, Learn, Create" width="100%" />
+  <img src="https://img.shields.io/badge/Takt-Build%20%7C%20Learn%20%7C%20Create-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Takt — Build, Learn, Create" width="100%" />
 </p>
 
 <p align="center">
@@ -44,24 +44,28 @@ I enjoy turning ideas into working projects — learning as I build and improvin
 ## Tech stack
 
 <p align="center">
-  <img src="./stack.svg" alt="Python, HTML, Git, GitHub and VS Code" width="100%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ## Featured work
 
 <p align="center">
   <a href="https://github.com/raphiphat8888/smartQ2">
-    <img width="48%" src="./smartq2-card.svg" alt="smartQ2 repository" />
+    <img src="https://img.shields.io/badge/smartQ2-Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="smartQ2 repository" />
   </a>
   <a href="https://github.com/raphiphat8888/raphiphat-python-code">
-    <img width="48%" src="./python-card.svg" alt="raphiphat-python-code repository" />
+    <img src="https://img.shields.io/badge/raphiphat-python-code-Repository-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="raphiphat-python-code repository" />
   </a>
 </p>
 
 ## GitHub activity
 
 <p align="center">
-  <img src="./activity.svg" alt="Takt's GitHub activity" width="100%" />
+  <img src="https://img.shields.io/github/last-commit/raphiphat8888/raphiphat8888?label=Latest%20commit&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117" alt="Latest commit" />
+  <img src="https://img.shields.io/github/stars/raphiphat8888/raphiphat8888?style=for-the-badge&logo=github&label=Stars&color=yellow&labelColor=0d1117" alt="GitHub stars" />
 </p>
 
 ## Highlights
@@ -72,24 +76,6 @@ I enjoy turning ideas into working projects — learning as I build and improvin
   </a>
   <a href="./Untitled design (2).png">
     <img width="48%" src="./Untitled design (2).png" alt="Photo highlight 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="./Untitled design (3).png">
-    <img width="48%" src="./Untitled design (3).png" alt="Photo highlight 3" />
-  </a>
-  <a href="./Untitled design (4).png">
-    <img width="48%" src="./Untitled design (4).png" alt="Photo highlight 4" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="./Untitled design (5).png">
-    <img width="48%" src="./Untitled design (5).png" alt="Photo highlight 5" />
-  </a>
-  <a href="./Untitled design (6).png">
-    <img width="48%" src="./Untitled design (6).png" alt="Photo highlight 6" />
   </a>
 </p>
 
