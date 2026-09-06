@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhuenFsMDZjNmdxNWhsMTh6eTV2NjVlYzJteWxpenRnY25zdHBpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Creative developer working" width="120" />
+  <img src="https://media.tenor.com/3ZQnUuQJ7kQAAAAd/cyberpunk-edgerunners-hug-david-lucy.gif" alt="Creative developer working" width="180" />
 </p>
 
 <p align="center">
