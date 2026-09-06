@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Creative developer working" width="120" />
+</p>
+
+<p align="center">
   <a href="https://github.com/raphiphat8888?tab=followers">
     <img src="https://img.shields.io/badge/Followers-0-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers" />
   </a>
