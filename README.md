@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Creative developer working" width="120" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhuenFsMDZjNmdxNWhsMTh6eTV2NjVlYzJteWxpenRnY25zdHBpeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" alt="Creative developer working" width="120" />
 </p>
 
 <p align="center">
